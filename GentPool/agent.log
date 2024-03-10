@@ -1,0 +1,317 @@
+INFO:root:Creating Config from file: ./gentpool/pool/Hedwig/agent.yaml
+INFO:root:Starting to load configuration from ./gentpool/pool/Hedwig/agent.yaml
+INFO:root:Successfully loaded configuration from ./gentpool/pool/Hedwig/agent.yaml
+INFO:root:--------------------
+INFO:root:[green]Welcome to Gentopia!
+INFO:root:--------------------
+INFO:root:[green]User: 
+INFO:root:Hedwig is thinking...
+INFO:root:Done
+INFO:root:[blue]Hedwig: 
+INFO:root:{"name":"pdfread", "arguments":{
+  "path": "/Users/ayushnoel/Desktop/Gentopia-Mason/testpdf.pdf"
+}}
+
+INFO:root:Calling function: pdfread ...
+INFO:root:Done
+INFO:root:--------------------
+INFO:root:Riya
+was
+a
+bright
+and
+ambitious
+young
+woman
+from
+Mumbai,
+India.
+She
+had
+dreamt
+of
+pursuing
+higher
+education
+in
+the
+United
+States,
+and
+finally,
+her
+dream
+came
+true
+when
+she
+received
+a
+scholarship
+to
+study
+at
+George
+Mason
+University
+in
+Virginia.
+Upon
+arriving
+on
+campus,
+Riya
+was
+filled
+with
+a
+mix
+of
+excitement
+and
+nervousness.
+Everything
+seemed
+so
+different
+from
+what
+she
+was
+used
+to
+back
+home.
+The
+towering
+buildings,
+the
+vast
+campus,
+and
+the
+multicultural
+environment
+all
+felt
+both
+exhilarating
+and
+overwhelming
+to
+her.
+As
+classes
+began,
+Riya
+threw
+herself
+into
+her
+studies,
+determined
+to
+make
+the
+most
+of
+this
+opportunity.
+She
+found
+the
+coursework
+challenging
+but
+rewarding,
+and
+her
+professors
+were
+impressed
+by
+her
+intelligence
+and
+dedication.
+Outside
+of
+her
+academic
+pursuits,
+Riya
+also
+made
+friends
+from
+various
+backgrounds
+who
+shared
+her
+passion
+for
+learning
+and
+exploration.
+She
+enjoyed
+exchanging
+stories
+and
+experiences
+with
+them,
+gaining
+new
+perspectives
+and
+broadening
+her
+horizons.
+Despite
+the
+initial
+challenges
+of
+adjusting
+to
+a
+new
+country
+and
+culture,
+Riya
+thrived
+at
+George
+Mason
+University.
+She
+found
+a
+sense
+of
+belonging
+within
+the
+vibrant
+campus
+community,
+and
+her
+time
+abroad
+enriched
+her
+in
+ways
+she
+had
+never
+imagined.
+By
+the
+end
+of
+her
+studies,
+Riya
+had
+not
+only
+earned
+her
+degree
+but
+had
+also
+grown
+as
+a
+person,
+becoming
+more
+confident,
+adaptable,
+and
+open-minded.
+As
+she
+prepared
+to
+return
+to
+India,
+she
+knew
+that
+the
+memories
+and
+lessons
+from
+her
+time
+at
+George
+Mason
+University
+would
+stay
+with
+her
+forever,
+shaping
+her
+future
+in
+ways
+she
+had
+yet
+to
+discover.
+INFO:root:--------------------
+INFO:root:Hedwig is thinking...
+INFO:root:Done
+INFO:root:[blue]Hedwig: 
+INFO:root:I'm sorry for the confusion, but as an AI text-based model, I don't have the capability to convert text into an audio file. However, I can suggest using a Text-to-Speech (TTS) software or service to convert the text into an audio file. There are many online services and software available that can do this.
+INFO:root:Done
+INFO:root:[green]User: 
+INFO:root:Hedwig is thinking...
+INFO:root:Done
+INFO:root:[blue]Hedwig: 
+INFO:root:The PDF is a story about a young woman named Riya from Mumbai, India, who receives a scholarship to study at George Mason University in Virginia, USA. Despite initial nervousness and cultural differences, Riya excels in her studies and impresses her professors with her intelligence and dedication. She also makes friends from diverse backgrounds, gaining new perspectives and broadening her horizons. Despite the challenges of adjusting to a new country and culture, Riya thrives and finds a sense of belonging within the campus community. By the end of her studies, she has grown as a person, becoming more confident, adaptable, and open-minded. The experiences and lessons from her time at George Mason University are set to shape her future in ways she has yet to discover.
+INFO:root:Done
+INFO:root:[green]User: 
+INFO:root:Hedwig is thinking...
+INFO:root:Done
+INFO:root:[blue]Hedwig: 
+INFO:root:{"name":"search_single_paper", "arguments":{
+"title": "Gentopia: A collaborative platform for tool-augmented llms",
+"top_k": 1
+}}
+
+INFO:root:Calling function: search_single_paper ...
+INFO:scholarly:Getting https://scholar.google.com/scholar?hl=en&q=Gentopia%3A%20A%20collaborative%20platform%20for%20tool-augmented%20llms
+INFO:httpx:HTTP Request: GET https://scholar.google.com/scholar?hl=en&q=Gentopia%3A%20A%20collaborative%20platform%20for%20tool-augmented%20llms "HTTP/1.1 200 OK"
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception AttributeError while fetching page: ("'str' object has no attribute 'domain'",)
+INFO:scholarly:Retrying with a new session.
+INFO:httpx:HTTP Request: GET https://scholar.google.com/scholar?hl=en&q=Gentopia%3A%20A%20collaborative%20platform%20for%20tool-augmented%20llms "HTTP/1.1 200 OK"
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception AttributeError while fetching page: ("'str' object has no attribute 'domain'",)
+INFO:scholarly:Retrying with a new session.
+INFO:httpx:HTTP Request: GET https://scholar.google.com/scholar?hl=en&q=Gentopia%3A%20A%20collaborative%20platform%20for%20tool-augmented%20llms "HTTP/1.1 200 OK"
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception AttributeError while fetching page: ("'str' object has no attribute 'domain'",)
+INFO:scholarly:Retrying with a new session.
+INFO:httpx:HTTP Request: GET https://scholar.google.com/scholar?hl=en&q=Gentopia%3A%20A%20collaborative%20platform%20for%20tool-augmented%20llms "HTTP/1.1 200 OK"
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception AttributeError while fetching page: ("'str' object has no attribute 'domain'",)
+INFO:scholarly:Retrying with a new session.
+INFO:httpx:HTTP Request: GET https://scholar.google.com/scholar?hl=en&q=Gentopia%3A%20A%20collaborative%20platform%20for%20tool-augmented%20llms "HTTP/1.1 200 OK"
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception AttributeError while fetching page: ("'str' object has no attribute 'domain'",)
+INFO:scholarly:Retrying with a new session.
